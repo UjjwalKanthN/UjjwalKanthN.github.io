@@ -16,7 +16,7 @@ scramjet combustor dynamics to biodiesel combustion modeling — all the while t
 cleaner (you’re welcome, planet Earth). I’ve also had my fair share of messing around with simulation tools like ANSYS, Paraview, and 
 STAR-CCM+, which somehow led me to become a CFD nerd of sorts.
 
-When I’m not buried in code or tweaking solvers, you’ll probably find me headbanging anf playing the guitar or volunteering to mentor underprivileged 
+When I’m not buried in code or tweaking solvers, you’ll probably find me headbanging and playing the guitar or volunteering to mentor underprivileged 
 kids — because why not mix a little music and good karma into the equation? And just for fun, I might casually drop in that I’ve handled 
 actual aircraft engines during internships. No big deal.
 
