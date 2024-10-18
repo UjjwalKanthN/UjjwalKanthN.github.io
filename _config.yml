@@ -21,7 +21,7 @@ repository               : "UjjwalKanthN/UjjwalKanthN.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Sai Ujjwal Kanth Nandula"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineer interested in developing CFD and reacting flow solvers."
