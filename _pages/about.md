@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ujjwal's Cave!"
+title: "Welcome to Ujjwal's Portfolio!"
 author_profile: true
 redirect_from: 
   - /about/
