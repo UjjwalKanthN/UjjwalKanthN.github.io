@@ -295,15 +295,15 @@ for T in temp:
 ![Molar Concentration 1](/images/autoig/molar_concent_1.png)
 <p align="center"><b>Molar Concentrations</b></p>
 
-In the above figure, we observe three plots which are show the rate of change of H2O, O2, OH molar fractions at 1000 kelvin.
+In the above figure, we observe three plots which are show the rate of change of $$H_2O, O_2, OH$$ molar fractions at 1000 kelvin.
 
-The first plot shows that the mole fraction of H2O is very less before the Auto Ignition takes place and increases and stabilizes. As discussed earlier, 
-this is a methane combustion. In the combustion reaction, H2O is the product which is forming. The plot shows that H2O is being formed and increasing as the 
-combustion is occurring. The second plot shows the O2 mole fraction is decreasing. This trend is occurring because, in the combustion reaction, O2 is a 
-reactant as it is the oxidizer for combustion. As the combustion process takes place, the O2 is being used and its mole fraction is decreasing respectively.
+The first plot shows that the mole fraction of $$H_2O$$ is very less before the Auto Ignition takes place and increases and stabilizes. As discussed earlier, 
+this is a methane combustion. In the combustion reaction, $$H_2O$$ is the product which is forming. The plot shows that $$H_2O$$ is being formed and increasing as the 
+combustion is occurring. The second plot shows the O2 mole fraction is decreasing. This trend is occurring because, in the combustion reaction, $$O_2$$ is a 
+reactant as it is the oxidizer for combustion. As the combustion process takes place, the $$O_2$$ is being used and its mole fraction is decreasing respectively.
 
-Similar to the first lot,  OH is also a product of the methane combustion reaction. As the combustion reaction is occurring, the OH is being used which can be 
-seen as it's mole fraction is increasing in the third plot. But it is to be noted that OH is an additional species which is being formed in the reaction and is 
+Similar to the first lot, $$OH$$ is also a product of the methane combustion reaction. As the combustion reaction is occurring, the $$OH$$ is being used which can be 
+seen as it's mole fraction is increasing in the third plot. But it is to be noted that $$OH$$ is an additional species which is being formed in the reaction and is 
 not generally depicted in a methane reaction mechanism.
 
 ### Case 2: -
@@ -313,13 +313,15 @@ not generally depicted in a methane reaction mechanism.
 ![Molar Concentration 1](/images/autoig/molar_concent_2.png)
 <p align="center"><b>Molar Concentrations</b></p>
 
-In the above figure, we observe three plots which are show the rate of change of H2O, O2, OH molar fractions at 500 kelvin.
+In the above figure, we observe three plots which are show the rate of change of $$H_2O, O_2, OH$$ molar fractions at 500 kelvin.
 
 At an initial glance, it is hard to understand what is occuring in the plots. But first, we have to understand that at 500 kelvin methane cannot combust because 
 the auto ignition temperature of methane is around 600 celsius which is around 873.15 kelvin. This value is way higher than our temperaure consideration. So, we can 
 establish that combustion is not occuring in this case.
 
-Yet, we observe changes in the mole fractions of H2O and OH while O2 mole fraction is constant. This is occurring because H2O and OH have single bonds and the energy 
-of the reactor at 500 kelvin is enough to break the bonds. And in the case of O2, there is no change as O2 has double bonds and it takes more amount of energy to break 
-its bonds when compared to the single bonds of H2O and OH. This kind of phenomenon is happening because of the ambient reactions occurring in the reactor. If we decrease 
-the temperature more, this phenomenon will not occur as there is no sufficient energy to break the bonds of H2O and OH.
+Yet, we observe changes in the mole fractions of $$H_2O$$ and $$OH$$ while $$O_2$$ mole fraction is constant. This is occurring because $$H_2O$$ and $$OH$$ have single bonds and the energy 
+of the reactor at 500 kelvin is enough to break the bonds. And in the case of $$O_2$$, there is no change as $$O_2$$ has double bonds and it takes more amount of energy to break 
+its bonds when compared to the single bonds of $$H_2O$$ and $$OH$$. This kind of phenomenon is happening because of the ambient reactions occurring in the reactor. If we decrease 
+the temperature more, this phenomenon will not occur as there is no sufficient energy to break the bonds of $$H_2O$$ and $$OH$$.
+
+If you are interested, you can check out the project code [here](https://github.com/UjjwalKanthN/Methane-Auto-Ignition). And if you have any questions, you can always reach out to me!

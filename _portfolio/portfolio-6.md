@@ -286,4 +286,4 @@ It is very important to understand that the SOR method also depends on a lot of 
 time parameters. Particular to the SOR method, the over relaxation factor gives an edge when compared to the other methods as it can be tweaked easily to find 
 the best possible accurate solution.
 
-If you are interested, you can check out the project code [here](https://github.com/UjjwalKanthN/2D-Heat-Conduction).
+If you are interested, you can check out the project code [here](https://github.com/UjjwalKanthN/2D-Heat-Conduction). And if you have any questions, you can always reach out to me!

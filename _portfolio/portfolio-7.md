@@ -354,4 +354,3 @@ plt.show()
 ![Training step 10000](/images/pinn/f8.png)
 ![Training step 15000](/images/pinn/f9.png)
 ![mu](/images/pinn/f10.jpg)
-

@@ -293,13 +293,4 @@ a new value in which the previous reactions are also present.
 2. The Ignition Delay and Maximum temperature trend where it stabilizes is the step where we have the most efficient reduced mechanism i.e. That particular mechanism is 
 safe to be used for that particular state values.
 
-Errors Faced:
-
-During the plotting of the graphs, in some cases, there were instances where the combustion was not occurring. Due to this phenomenon, the Ignition Delay array was taking 
-empty arrays. A piece of code was added to replace those empty values to zero to explain that the combustion was not occurring in that particular reduced mechanism. The 
-occurrence of value 0 in the above Ignition Delay plots indicates the failure of combustion for the state values for that particular mechanism.
-
-For some particular cases, the Ignition Delay trend was constant i.e. it was showing a single value during the whole entire reduction process. To get precise trends, the 
-step size for the simulation time was decreased from 0.01 to 0.001.
-
-If you are interested more, check out my project [here](https://github.com/UjjwalKanthN/GRI-Mechanism-Reduction).
+If you are interested more, check out my project [here](https://github.com/UjjwalKanthN/GRI-Mechanism-Reduction). If you have any questions, you can alsways reach out to me!
