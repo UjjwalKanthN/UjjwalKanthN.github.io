@@ -1,5 +1,6 @@
 ---
 title: "Custom OpenFOAM Solver"
+date: 2023-02-28
 excerpt: "Custom OpenFOAM Scalar Solver"
 collection: portfolio
 ---
@@ -606,7 +607,9 @@ file we just created. Let's look at the visualized results which show the change
 
 **Visualization: Scalar Evolution Over Time**
 
-<p align="center"><br/><img src='/images/0sec.png'>
+<div style="text-align: center;">
+    <img src="/images/0sec.png" alt="Case 10" />
+</div>
 <p align="center"><b> At 0 seconds</b></p>
 
 <p align="center"><br/><img src='/images/0.02sec.png'>
@@ -642,6 +645,7 @@ file we just created. Let's look at the visualized results which show the change
 <p align="center"><br/><img src='/images/1.0sec.png'>
 <p align="center"><b> At 1.0 seconds</b></p>
 
+![Case 10](/images/0sec.png){: .center }
 
 ### Observations and Inference:
 

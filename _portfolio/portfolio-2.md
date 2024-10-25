@@ -1,5 +1,6 @@
 ---
 title: "GRI Sensitivity Analysis"
+date: 2022-11-21
 excerpt: "GRI Mech (Methane) Sensitivity Analysis using Python "
 collection: portfolio
 ---
