@@ -1,7 +1,7 @@
 ---
 title: "Custom OpenFOAM Solver"
 date: 2023-02-28
-excerpt: "Custom OpenFOAM Scalar Solver"
+excerpt: "Custom OpenFOAM Solver for Passive Scalar Transport"
 collection: portfolio
 ---
 
@@ -607,45 +607,8 @@ file we just created. Let's look at the visualized results which show the change
 
 **Visualization: Scalar Evolution Over Time**
 
-<div style="text-align: center;">
-    <img src="/images/0sec.png" alt="Case 10" />
-</div>
-<p align="center"><b> At 0 seconds</b></p>
 
-<p align="center"><br/><img src='/images/0.02sec.png'>
-<p align="center"><b> At 0.02 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.1sec.png'>
-<p align="center"><b> At 0.1 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.2sec.png'>
-<p align="center"><b> At 0.2 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.2sec.png'>
-<p align="center"><b> At 0.3 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.4sec.png'>
-<p align="center"><b> At 0.4 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.5sec.png'>
-<p align="center"><b> At 0.5 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.6sec.png'>
-<p align="center"><b> At 0.6 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.7sec.png'>
-<p align="center"><b> At 0.7 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.8sec.png'>
-<p align="center"><b> At 0.8 seconds</b></p>
-
-<p align="center"><br/><img src='/images/0.9sec.png'>
-<p align="center"><b> At 0.9 seconds</b></p>
-
-<p align="center"><br/><img src='/images/1.0sec.png'>
-<p align="center"><b> At 1.0 seconds</b></p>
-
-![Case 10](/images/0sec.png){: .center }
+![Scalar Evolution](/images/scalar.gif)
 
 ### Observations and Inference:
 

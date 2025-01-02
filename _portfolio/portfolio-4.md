@@ -8,8 +8,8 @@ collection: portfolio
 ## Problem Statement
 
 In this work, we are going to explore the Rusanov and MacCormack schemes in 2D for shock-vortex interactions. In this work we explored the Euler equations in the 
-case of a one-dimensional shock tube. For low Mach number flows, the exact solution to the current problem is where the vortex shifts by distances, $$\Delta x = u∞$$ and ∆y = v∞, 
-where u∞ and v∞ are far-field velocities.
+case of a one-dimensional shock tube. For low Mach number flows, the exact solution to the current problem is where the vortex shifts by distances, $$\Delta x = u_{\infty}$$ and $$\Delta y = v_{\infty}$$, 
+where $$u_{\infty}$$ and $$v_{\infty}$$ are far-field velocities.
 
 ## Method of Solution
 
