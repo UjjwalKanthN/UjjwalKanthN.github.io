@@ -16,6 +16,15 @@ Education
 
 Work experience
 ======
+* Research Volunteer: Central Michigan University 
+
+  Mount Pleasant, MI  (Aug 2024 – Present)
+
+  * Developing a PINN model for 2D buoyancy-driven flow using Boussinesq and Navier-Stokes equations, leveraging Python
+	and DeepXDE to ensure accurate computational analysis
+  * Optimizing model performance by comparing data generation techniques, demonstrating how Latin Hypercube
+	Sampling achieves 1000x greater accuracy than uniform methods, leading to more reliable simulation results
+
 * Research Assistant: [CET Laboratory](https://www.cet-lab.org/)
 
   University at Buffalo (SUNY)  (Aug 2022 - Jul 2024)
@@ -37,7 +46,42 @@ Work experience
 	combustion characteristics and emissions profiles for biodiesel fuels through kinetic modeling and CFD.
   * Developed a Python-based tool for surrogate fuel calculations, which computes approximate mole fractions based
 	on functional group and property group targets, streamlining the biodiesel combustion modeling process.
-  
+
+Projects
+========
+* [2D Shock-Vortex Interaction](https://ujjwalkanthn.github.io/portfolio/portfolio-4/)
+	
+  * Implemented MacCormack and Rusanov schemes in Python across three grid resolutions, comparing 2D isentropic
+	shock-vortex interaction at varying Mach numbers.
+  * Analyzed vortex behavior using enstrophy and vorticity measures, with MacCormack demonstrating a 15% improvement
+    in accuracy over Rusanov for vortex-shock interactions.
+	
+* [Custom OpenFOAM Solver for Scalar Transport](https://ujjwalkanthn.github.io/portfolio/portfolio-4/)
+
+  * Developed a custom icoFoam solver in \textbf{C++} for passive scalar transport, achieving benchmark validation through 
+    the Lid-driven Cavity test case
+  * Achieved 15% performance improvement over benchmarked cases by parallelizing simulations across multiple processors
+
+* Case Study On Velocity-Pressure Coupling in FVM Solvers
+
+  * Implementing SIMPLE algorithm using C++ and FORTRAN for velocity-pressure coupling in incompressible 
+    fluid flow, evaluating computational efficiency, convergence, and numerical stability
+  * The objective is to validate solver accuracy against benchmarks and visualize flow fields using Python, providing insights 
+    into solver performance for CFD-driven design applications
+
+* MPI-Based Parallel Computation for Mandelbrot Set Area Estimation
+
+  * Implemented MPI-based C++ program to estimate the Mandelbrot set's area, optimizing computational efficiency by dividing 
+    the domain into subdomains and distributing workload across multiple cores
+  * Analyzed load balancing and performance scaling, demonstrating improved computational speed with multi-core execution while evaluating 
+    efficiency trade-offs between vertical and horizontal domain partitioning
+
+* 2D Heat Conduction Case Study
+
+  * Designed MATLAB-based solvers to simulate 2D heat conduction by implementing varied finite difference methods for thermal energy transfer modeling
+  * Demonstrated the computational advantages of the Successive Over-Relaxation (SOR) solver over traditional methods,under varying boundary conditions, 
+    improving solution efficiency for large-scale heat transfer problems
+
 Skills
 ======
 * **Programming**
@@ -66,9 +110,9 @@ Teaching
 
   University at Buffalo (SUNY)  (Spring 23)
   
-  * Assisting with proctoring exams, managing grades, preparing homework, and solutions
-  * Conduct office hours to meet and assist students with assignment and/or help them with conceptual issues
-    considering the material covered in lectures.
+  * Assisted with proctoring exams, managing grades, preparing homework, and solutions
+  * Conducted office hours to meet and assist students with assignment and/or help them with conceptual issues
+    considering the material covered during lectures.
   
 Activities And Certifications
 ======
