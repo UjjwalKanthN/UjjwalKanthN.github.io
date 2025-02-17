@@ -14,6 +14,20 @@ Education
 * M.S. Mechanical Engineering, University at Buffalo (SUNY), 2024
 * B.S. Aeronautical Engineering, JNTUH, 2018
 
+Skills
+======
+* **Programming**
+  * C/C++, Fortran, Python, Matlab, NumPy, SciPy, MatplotLib, Cantera
+	(Chemical Kinetics), Linux, Bash, High Performance Computing, MPI,
+	Intel MKL, PetSc, GitHub, AI/ML, PINN, PyTorch, CUDA
+* **Design Platforms**
+  * AutoCAD, Catia V5, Creo, Solidworks, NX CAD, Fusion 360
+* **CAE Platforms**
+  * OpenFOAM, Paraview, Ansys Fluent, Ansys CFX, STAR-CCM+, Chemkin
+	Thermal Desktop, ANSA
+* **Technical Skills**
+  * MS Office Suite, LaTeX, NI LabVIEW, Combustion Diagnostics, Design of Experiments
+
 Work experience
 ======
 * Research Volunteer: Central Michigan University 
@@ -58,7 +72,7 @@ Projects
 	
 * [Custom OpenFOAM Solver for Scalar Transport](https://ujjwalkanthn.github.io/portfolio/portfolio-4/)
 
-  * Developed a custom icoFoam solver in \textbf{C++} for passive scalar transport, achieving benchmark validation through 
+  * Developed a custom icoFoam solver in C++ for passive scalar transport, achieving benchmark validation through 
     the Lid-driven Cavity test case
   * Achieved 15% performance improvement over benchmarked cases by parallelizing simulations across multiple processors
 
@@ -81,20 +95,6 @@ Projects
   * Designed MATLAB-based solvers to simulate 2D heat conduction by implementing varied finite difference methods for thermal energy transfer modeling
   * Demonstrated the computational advantages of the Successive Over-Relaxation (SOR) solver over traditional methods,under varying boundary conditions, 
     improving solution efficiency for large-scale heat transfer problems
-
-Skills
-======
-* **Programming**
-  * C/C++, Fortran, Python, Matlab, NumPy, SciPy, MatplotLib, Cantera
-	(Chemical Kinetics), Linux, Bash, High Performance Computing, MPI,
-	Intel MKL, PetSc, GitHub, AI/ML, PINN, PyTorch, CUDA
-* **Design Platforms**
-  * AutoCAD, Catia V5, Creo, Solidworks, NX CAD, Fusion 360
-* **CAE Platforms**
-  * OpenFOAM, Paraview, Ansys Fluent, Ansys CFX, STAR-CCM+, Chemkin
-	Thermal Desktop, ANSA
-* **Technical Skills**
-  * MS Office Suite, LaTeX, NI LabVIEW, Combustion Diagnostics, Design of Experiments
 
 Publications
 ======

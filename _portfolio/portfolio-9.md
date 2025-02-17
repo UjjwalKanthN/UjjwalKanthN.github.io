@@ -407,7 +407,7 @@ observations from the results:
 		- The temperature profile is significantly spread out, resembling a Gaussian distribution.
 		- The high-temperature region is no longer concentrated, indicating a dominant diffusion effect leading to uniform temperature distribution.
  
- ### Convection Cases
+### Convection Cases
  
 ![Initial Condition for Temperature](/images/condiffof/T_init.png)
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Figure 3(a): Divergence Schemes at t = 0 sec
