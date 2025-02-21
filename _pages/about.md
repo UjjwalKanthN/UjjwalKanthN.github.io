@@ -15,6 +15,6 @@ computing clusters. You can check some of my projects [here](https://ujjwalkanth
 Beyond simulations and code, I enjoy exploring emerging technologies and constantly pushing the boundaries of what computational engineering can achieve. I’m also an avid guitarist, because 
 balancing technical rigor with creative pursuits makes the journey more rewarding.
 
-I am currently looking out for *Mechanical*, *CFD* and *Thermal* based engineering roles, if you’re looking for someone who blends technical expertise with a creative edge, let’s connect and 
+I am currently looking out for **Mechanical**, **CFD** and **Thermal** based engineering roles, if you’re looking for someone who blends technical expertise with a creative edge, let’s connect and 
 explore how we can push the boundaries of innovation together!
 

@@ -1,7 +1,7 @@
 ---
 title: "GRI Mechanism Reduction"
 date: 2023-05-03
-excerpt: "Mechanism Reduction using Python "
+excerpt: "Mechanism Reduction using Python and Cantera"
 collection: portfolio
 ---
 

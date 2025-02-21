@@ -6,9 +6,11 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-minimal_mistakes_skin    : "dark"
+
 # Basic Site Settings
+# minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
+site_theme               : "darker"
 title                    : "Ujjwal's Portfolio"
 title_separator          : "-"
 name                     : &name "Sai Ujjwal Kanth Nandula"
@@ -24,7 +26,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sai Ujjwal Kanth Nandula"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him/his"  
   bio              : "Mechanical Engineer interested in developing CFD and reacting flow solvers."
   location         : "Bedford, NH"
   employer         : "University at Buffalo (SUNY)"

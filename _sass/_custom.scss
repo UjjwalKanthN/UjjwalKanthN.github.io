@@ -1,0 +1,150 @@
+/* ==========================================================================  
+   Custom Dark Theme  
+   ========================================================================== */
+
+/* General Background & Text */
+body {
+    background-color: #252a34 !important;
+    color: #eaeaea !important;
+}
+
+/* Header (Navbar) */
+.site-header {
+    background-color: #252a34 !important;
+    color: #eaeaea !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.site-header a {
+    color: #eaeaea !important;
+}
+
+.site-header a:hover {
+    color: #bb86fc !important;
+}
+
+/* Footer */
+.page__footer {
+    background-color: #1e1e1e !important;
+    color: #eaeaea !important;
+}
+
+/* Footer Links */
+.page__footer a {
+    color: #00adb5 !important;
+}
+
+.page__footer a:hover {
+    color: #bb86fc !important;
+}
+
+/* Borders */
+hr, .border {
+    border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #252a34 !important;
+    color: #eaeaea !important;
+}
+
+.sidebar a {
+    color: #00adb5 !important;
+}
+
+.sidebar a:hover {
+    color: #bb86fc !important;
+}
+
+/* Sidebar Icons */
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa {
+    color: #eaeaea !important;
+}
+
+/* Links */
+a {
+    color: #00adb5 !important;
+}
+
+a:hover {
+    color: #bb86fc !important;
+}
+
+a:visited {
+    color: #008b8b !important;
+}
+
+/* Buttons */
+button, .btn {
+    background-color: #00adb5 !important;
+    color: #252a34 !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+button:hover, .btn:hover {
+    background-color: #008b8b !important;
+}
+
+/* Code Blocks */
+/* Completely Remove Borders Around Code Blocks */
+.highlight, pre, code, .code-wrapper {
+    background-color: #1e1e1e !important; /* Dark background */
+    border: none !important; /* Remove any border */
+    box-shadow: none !important; /* Remove any shadow effect */
+    outline: none !important; /* Remove any outline */
+}
+
+/* Ensure Code Blocks Match Dark Theme */
+pre, code {
+    background-color: transparent !important; /* Ensure no extra background */
+    border: none !important;
+}
+
+/* Fix Padding to Avoid Extra Space */
+pre {
+    padding: 10px !important;
+    margin: 0 !important;
+}
+
+/* Code Block Container (In Case It's Wrapped in Another Div) */
+div.highlight {
+    background-color: #1e1e1e !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 10px;
+    margin: 0;
+}
+
+/* Code Syntax Highlighting */
+.highlight .nb { color: #00adb5 !important; }  /* Keywords */
+.highlight .s2 { color: #ffcc00 !important; }  /* Strings */
+.highlight .o  { color: #ff6b6b !important; }  /* Operators */
+
+/* Forms */
+input, textarea {
+    background-color: #1e1e1e !important;
+    color: #eaeaea !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Social Media Icons */
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+    color: #eaeaea !important;
+}
+
+/* Search Box */
+.ais-search-box .ais-search-box--input {
+    background-color: #1e1e1e !important;
+    color: #eaeaea !important;
+}
+
+/* Sitemap */
+.sitemap {
+    background-color: #1e1e1e !important;
+    color: #eaeaea !important;
+}
