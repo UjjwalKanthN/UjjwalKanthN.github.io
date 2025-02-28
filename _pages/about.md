@@ -6,15 +6,12 @@ redirect_from:
   - /about/
 ---
 
+Hi, I'm Sai Ujjwal Kanth Nandula, a Mechanical Engineering graduate from the University at Buffalo, with expertise in CFD, Combustion Modeling, and High-Performance Computing. I develop custom tools 
+and solvers using OpenFOAM, Python, and C++. My experience spans various CFD and Combustion modeling projects, optimizing performance through custom tools and solvers. Check out my projects 
+[here](https://ujjwalkanthn.github.io/portfolio/).
 
-Hi, I’m Sai Ujjwal Kanth Nandula, a Mechanical Engineering graduate from the University at Buffalo, specializing in Computational Fluid Dynamics (CFD), Combustion Modeling, and High-Performance 
-Computing. I’m passionate about solving complex engineering problems by developing custom tools and solvers, utilizing platforms like OpenFOAM, Python, and C++. With a strong foundation in 
-Aeronautical Engineering, I’ve contributed to a diverse array of projects, from scramjet combustor simulations to biodiesel combustion modeling, optimizing performance through high-powered 
-computing clusters. You can check some of my projects [here](https://ujjwalkanthn.github.io/portfolio/).
+Beyond simulations, I explore emerging technologies and push the boundaries of computational engineering. I'm also an avid guitarist, balancing technical rigor with creativity.
 
-Beyond simulations and code, I enjoy exploring emerging technologies and constantly pushing the boundaries of what computational engineering can achieve. I’m also an avid guitarist, because 
-balancing technical rigor with creative pursuits makes the journey more rewarding.
-
-I am currently looking out for **Mechanical**, **CFD** and **Thermal** based engineering roles, if you’re looking for someone who blends technical expertise with a creative edge, let’s connect and 
-explore how we can push the boundaries of innovation together!
+Currently, I'm seeking roles in **Mechanical**, **CFD** and **Thermal Engineering**. If you're looking for technical expertise with a creative edge, let's 
+[connect!](https://www.linkedin.com/in/nsujjwalkanth/)
 
