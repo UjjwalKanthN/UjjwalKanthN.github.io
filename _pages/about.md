@@ -12,6 +12,11 @@ and solvers using OpenFOAM, Python, and C++. My experience spans various CFD and
 
 Beyond simulations, I explore emerging technologies and push the boundaries of computational engineering. I'm also an avid guitarist, balancing technical rigor with creativity.
 
-Currently, I'm seeking roles in **Mechanical**, **CFD** and **Thermal Engineering**. If you're looking for technical expertise with a creative edge, let's 
+Currently, I'm seeking roles in **Mechanical**, **CFD**, **HPC** and **Thermal Engineering**. If you're looking for technical expertise with a creative edge, let's 
 [connect!](https://www.linkedin.com/in/nsujjwalkanth/)
 
+## Featured Work
+
+Small Pool Fire [OpenFOAM] [2025]
+
+![Full Mesh](/images/smallPoolFire2D.gif)

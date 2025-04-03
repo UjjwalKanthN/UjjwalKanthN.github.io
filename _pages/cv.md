@@ -52,7 +52,7 @@ Work experience
 
 * Project Associate: [TDCE](https://mech.iitm.ac.in/mechlab/tdce/)
   
-  IIT, Madras (Feb 2020 - Aug 2021)
+  IIT, Madras (Jan 2020 - Mar 2022)
   
   * Developed a comprehensive study on Biodiesel combustion processes using chemical kinetics and combustion
 	modeling, and CFD analysis focusing on unsaturation levels, increasing combustion efficiency in laboratory tests.
